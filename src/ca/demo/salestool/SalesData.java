@@ -4,6 +4,8 @@ public class SalesData {
 
 	public void display() {
 		System.out.println("IMPLEMENT DATA DISPLAY");
-	//change a	
+		String a = "added from sample 2";
+		String b = "added from sample 2";
+			
 	}
 }
