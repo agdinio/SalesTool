@@ -7,5 +7,6 @@ public class SalesData {
 		String a = "added from sample 2";
 		String b = "added from sample 2";
 		//1. change sample	
+		//2. change sample
 	}
 }
