@@ -6,6 +6,7 @@ public class SalesData {
 		System.out.println("IMPLEMENT DATA DISPLAY");
 		String a = "added from sample 2";
 		String b = "added from sample 2";
+	
 		
 	}
 }
