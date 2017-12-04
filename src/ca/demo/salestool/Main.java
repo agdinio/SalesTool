@@ -6,6 +6,8 @@ public class Main {
 
 		SalesData data = new SalesData();
 		data.display();
+		
+		String b = "sample";
 	}
 
 }
