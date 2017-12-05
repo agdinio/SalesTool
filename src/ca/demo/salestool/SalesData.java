@@ -10,6 +10,8 @@ public class SalesData {
 		//2. change sample
 		//3. change sample
 		//4. change sample
+		//5. change sample
+		//6. change sample
 		
 		//1. change sample 2
 		//2. change sample 2
