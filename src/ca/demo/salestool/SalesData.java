@@ -14,7 +14,7 @@ public class SalesData {
 		//6. change sample
 		//7. change sample
 		//8. change sample
-		//8. change sample
+		//9. change sample
 		
 		//1. change sample 2
 		//2. change sample 2
